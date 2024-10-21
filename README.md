@@ -4,7 +4,7 @@
 
 # 84.CollegeStudentsAcademicPlanningConsultingServicePlatformManagementSystem
 
-<p>V：bisebao888888(sql文件)</p>
+<p>V：bishebao888888(sql文件)</p>
 <p>抠: 206157502(sql文件)</p>
 
 <p><h1 align="center">84.大学生学业规划咨询服务平台管理系统</h1></p>
